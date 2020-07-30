@@ -140,4 +140,4 @@ end
 
 end
 
-TicTacToe(play)
+play

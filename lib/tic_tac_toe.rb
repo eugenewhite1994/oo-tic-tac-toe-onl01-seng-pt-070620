@@ -1,4 +1,4 @@
-class TicTacToe
+class TicTacToe(play)
 
   WIN_COMBINATIONS = [
     [0, 1, 2],
